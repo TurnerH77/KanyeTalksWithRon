@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JARVnyAj1iGHWd2oGjxsXvP1P1uit/PNoJoiVTw5DCfPtIXN1IwrxtH7RW76Pq1i1lDXMq9vdniITVi1ogH8Vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\turne\\Documents\\TrueCoders\\repos\\KanyeRonEx\\KanyeRonEx\\KanyeRonEx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\turne\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

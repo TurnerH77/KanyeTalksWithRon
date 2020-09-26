@@ -1,0 +1,15 @@
+C:\Users\turne\Documents\TrueCoders\repos\KanyeRonEx\KanyeRonEx\bin\Debug\netcoreapp3.1\KanyeRonEx.exe
+C:\Users\turne\Documents\TrueCoders\repos\KanyeRonEx\KanyeRonEx\obj\Debug\netcoreapp3.1\KanyeRonEx.csprojAssemblyReference.cache
+C:\Users\turne\Documents\TrueCoders\repos\KanyeRonEx\KanyeRonEx\obj\Debug\netcoreapp3.1\KanyeRonEx.AssemblyInfoInputs.cache
+C:\Users\turne\Documents\TrueCoders\repos\KanyeRonEx\KanyeRonEx\obj\Debug\netcoreapp3.1\KanyeRonEx.AssemblyInfo.cs
+C:\Users\turne\Documents\TrueCoders\repos\KanyeRonEx\KanyeRonEx\bin\Debug\netcoreapp3.1\KanyeRonEx.deps.json
+C:\Users\turne\Documents\TrueCoders\repos\KanyeRonEx\KanyeRonEx\bin\Debug\netcoreapp3.1\KanyeRonEx.runtimeconfig.json
+C:\Users\turne\Documents\TrueCoders\repos\KanyeRonEx\KanyeRonEx\bin\Debug\netcoreapp3.1\KanyeRonEx.runtimeconfig.dev.json
+C:\Users\turne\Documents\TrueCoders\repos\KanyeRonEx\KanyeRonEx\bin\Debug\netcoreapp3.1\KanyeRonEx.dll
+C:\Users\turne\Documents\TrueCoders\repos\KanyeRonEx\KanyeRonEx\bin\Debug\netcoreapp3.1\KanyeRonEx.pdb
+C:\Users\turne\Documents\TrueCoders\repos\KanyeRonEx\KanyeRonEx\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\turne\Documents\TrueCoders\repos\KanyeRonEx\KanyeRonEx\obj\Debug\netcoreapp3.1\KanyeRonEx.csproj.CoreCompileInputs.cache
+C:\Users\turne\Documents\TrueCoders\repos\KanyeRonEx\KanyeRonEx\obj\Debug\netcoreapp3.1\KanyeRonEx.csproj.CopyComplete
+C:\Users\turne\Documents\TrueCoders\repos\KanyeRonEx\KanyeRonEx\obj\Debug\netcoreapp3.1\KanyeRonEx.dll
+C:\Users\turne\Documents\TrueCoders\repos\KanyeRonEx\KanyeRonEx\obj\Debug\netcoreapp3.1\KanyeRonEx.pdb
+C:\Users\turne\Documents\TrueCoders\repos\KanyeRonEx\KanyeRonEx\obj\Debug\netcoreapp3.1\KanyeRonEx.genruntimeconfig.cache
